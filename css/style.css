@@ -69,7 +69,7 @@ product-cta demo-normal {
 }
 
 
-.sb-button {
+.sb-mybutton {
     display: inline-block;
     background: none;
     border-style: solid;
@@ -82,7 +82,7 @@ product-cta demo-normal {
     -webkit-text-decoration: none;
     text-decoration: none;
     transition: all .2s ease;
-    transition: var(--buttonTransition);
+    transition: var(--mybuttonTransition);
 	box-sizing: inherit;
 	font-size: small;
 	box-sizing: border-box;
